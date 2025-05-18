@@ -1,14 +1,8 @@
-# Credit-Card-Fraud-Detection-ML           ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# Credit-Card-Fraud-Detection-ML  
 
    - Applied Decision Tree, KNN, and Logistic Regression, performed data splitting and model evaluation.
    - Achieved high accuracy with KNN and Decision Tree, Logistic Regression reached 93.5% (train), 91.9% (test).
 
-
-
-## License
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-This project is licensed under the MIT License.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="20" height="20"> Youtube
 <h4>If you like, do follow me on Youtube</h4>
